@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: github.com/SAP/stewardci-log-forwarding
+Upstream-Contact: roman.isbrecht_at_sap.com
+Source: github.com/SAP/stewardci-log-forwarding
+
+Files: **
+Copyright: 2020 SAP SE or an SAP affiliate company and 'log forwarding for project "Steward"' contributors
+License: Apache-2.0
