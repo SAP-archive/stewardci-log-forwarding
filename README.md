@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/stewardci-log-forwarding)](https://api.reuse.software/info/github.com/SAP/stewardci-log-forwarding)
+
 # Log forwarding for project "Steward"
 
 ## Description
